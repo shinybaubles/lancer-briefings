@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "IPS-N Cook",
         "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "system": "Bluetspur",
+        "gate": "Manaraga",
+        "ring": "Ural-Line",
+        "headerTitle": "Overton",
+        "headerSubtitle": "Security & Salvage",
+        "subheaderTitle": "Security Team",
+        "subheaderSubtitle": "OSS Warm Winds",
       },
       "options":{
         "eventsMarkdownPerMission": true
