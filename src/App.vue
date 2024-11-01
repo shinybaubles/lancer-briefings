@@ -95,8 +95,8 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
-          "status": "start"
+          "name": "Shattered Reflection",
+          "status": "success"
         },
       ],
       "pilots": [
