@@ -89,14 +89,24 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
-      "current_md": "",
+      "mission_slug": "001", "002", "003",
+      "current_md": "003",
       "events": "",
       "missions": [
         {
           "slug": "001",
           "name": "Shattered Reflection",
           "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "Kaiji Hunt",
+          "status": "success"
+        },
+        {
+          "slug": "001",
+          "name": "Long, Lonesome Road",
+          "status": "start"
         },
       ],
       "pilots": [
