@@ -100,7 +100,7 @@ export default {
         },
         {
           "slug": "002",
-          "name": "Kaiji Hunt",
+          "name": "Kaiju Hunt",
           "status": "success"
         },
         {
