@@ -106,7 +106,7 @@ export default {
         {
           "slug": "003",
           "name": "Long, Lonesome Road",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
