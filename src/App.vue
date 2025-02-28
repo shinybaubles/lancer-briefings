@@ -89,8 +89,8 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
-      "current_md": "003",
+      "mission_slug": "003.5",
+      "current_md": "003.5",
       "events": "",
       "missions": [
         {
@@ -106,6 +106,11 @@ export default {
         {
           "slug": "003",
           "name": "Long, Lonesome Road",
+          "status": "success"
+        },
+        {
+          "slug": "003.5",
+          "name": "I Love Gambling",
           "status": "success"
         },
       ],
