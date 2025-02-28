@@ -89,8 +89,8 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003.5",
-      "current_md": "003.5",
+      "mission_slug": "004",
+      "current_md": "004",
       "events": "",
       "missions": [
         {
@@ -109,7 +109,7 @@ export default {
           "status": "success"
         },
         {
-          "slug": "003.5",
+          "slug": "004",
           "name": "I Love Gambling",
           "status": "success"
         },
