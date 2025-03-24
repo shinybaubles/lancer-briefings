@@ -89,8 +89,8 @@ export default {
 
   data() {
     return {
-      "mission_slug": "004",
-      "current_md": "004",
+      "mission_slug": "005",
+      "current_md": "005",
       "events": "",
       "missions": [
         {
@@ -112,6 +112,11 @@ export default {
           "slug": "004",
           "name": "I Love Gambling",
           "status": "success"
+        },
+        {
+          "slug": "005",
+          "name": "In the Blink of an Eye",
+          "status": "current"
         },
       ],
       "pilots": [
@@ -157,11 +162,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "IPS-N Cook",
-        "year": "5014u",
-        "system": "Bluetspur",
-        "gate": "Manaraga",
-        "ring": "Ural-Line",
+        "planet": "Evil Wizard's Lair?",
+        "year": "5015u",
+        "system": "Blinkspace",
+        "gate": "Manaraga (Last Known)",
+        "ring": "Ural-Line (Last Known)",
         "headerTitle": "Overton",
         "headerSubtitle": "Security & Salvage",
         "subheaderTitle": "Fireteam 'Fortuna's Favored'",
