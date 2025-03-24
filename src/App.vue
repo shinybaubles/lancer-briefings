@@ -116,7 +116,7 @@ export default {
         {
           "slug": "005",
           "name": "In the Blink of an Eye",
-          "status": "current"
+          "status": "start"
         },
       ],
       "pilots": [
