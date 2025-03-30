@@ -170,7 +170,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "Evil Wizard's Lair?",
+        "planet": "Metavault: IRKALLA",
         "year": "5015u?",
         "system": "Blinkspace",
         "gate": "Manaraga (Last Known)",
