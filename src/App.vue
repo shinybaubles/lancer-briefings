@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "IPS-N Cook",
+        "planet": "Khepri",
         "year": "5014u",
-        "system": "Bluetspur",
+        "system": "Adrakhazan-3",
         "gate": "Manaraga",
         "ring": "Ural-Line",
-        "headerTitle": "Overton",
-        "headerSubtitle": "Security & Salvage",
-        "subheaderTitle": "Security Team",
-        "subheaderSubtitle": "OSS Warm Winds",
+        "headerTitle": "SSC",
+        "headerSubtitle": "Smith-Shimano Corprostate",
+        "subheaderTitle": "Contracted Fireteam",
+        "subheaderSubtitle": "Starlings",
       },
       "options":{
         "eventsMarkdownPerMission": true
