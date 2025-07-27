@@ -177,7 +177,7 @@ export default {
         "ring": "Ural-Line (Last Known)",
         "headerTitle": "Overton",
         "headerSubtitle": "Security & Salvage",
-        "subheaderTitle": "Fireteam 'Fortuna's Favored'",
+        "subheaderTitle": "Fireteam 'Starlings'",
         "subheaderSubtitle": "OSS Warm Winds",
       },
       "options":{
